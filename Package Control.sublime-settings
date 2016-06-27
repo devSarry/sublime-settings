@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"install_prereleases":
+	{
+		"IsPresent": false
+	},
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Auto Semi-Colon",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Console Wrap for js",
+		"Emmet",
+		"Laravel 5 Artisan",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SublimeCodeIntel",
+		"Terminal"
+	]
+}

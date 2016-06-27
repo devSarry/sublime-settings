@@ -1,0 +1,19 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 8,
+	"line_padding_top": 8,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme-Darker.sublime-theme"
+}
